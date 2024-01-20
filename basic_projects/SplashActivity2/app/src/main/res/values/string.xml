@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    //Headings
+    <string name="heading_one">Explore Events</string>
+    <string name="heading_two">Create Events</string>
+    <string name="heading_three">Get Paid for Assistance</string>
+
+    //Description
+    <string name="desc_one">Find out what events are happening around you.</string>
+    <string name="desc_two">Create events and invite people to join.</string>
+    <string name="desc_three">Assist people with your expertise in the created events and get paid.</string>
+
+
+
+</resources>
